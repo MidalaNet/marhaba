@@ -6,6 +6,7 @@
 * libsqlite3
 * libmxml
 * libtidy
+* json-c
 ### Build from source
 Change to 'src' and type:
 
