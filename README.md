@@ -12,7 +12,7 @@ Change to 'src' and type:
       make
       make install
       make clean
-## Mar-haba Bot
+## Marhaba Bot
 Change to 'bot' and type:
 
     ./bot.pl
