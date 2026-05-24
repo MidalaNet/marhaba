@@ -1,1 +1,4 @@
 db/marhaba.sqlite
+src/*.o
+src/aggregator
+src/publisher
